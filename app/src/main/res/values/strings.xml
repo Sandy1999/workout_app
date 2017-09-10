@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FindsWorkout</string>
+    <string-array name="workout_types">
+        <item>Chest</item>
+        <item>Bisecps</item>
+        <item>Triceps</item>
+        <item>Shoulders</item>
+        <item>Back</item>
+        <item>Thigs</item>
+    </string-array>
+</resources>
